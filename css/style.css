@@ -642,8 +642,9 @@ h1 {
   background: #7fc142;
   padding: 40px 30px;
   position: absolute;
-  top: -70px;
+  top: -60px;
   left: 8%;
+  margin-top: 30px;
   width: 100%;
 }
 
